@@ -6,7 +6,7 @@ var website_name = "ROTON";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "@rotonffx";
+var telegram_channel_link = "https://t.me/rotonffx";
 
 // =======================================================
 // TELEGRAM GROUP LINK
