@@ -1,12 +1,16 @@
 {
   "logo": null,
   "ffBanner": "ff-banner-1793887457563.jpg",
-  "ffPackages": null,
   "banners": [
     "banner-1793909422769-9572.jpg",
     "default:Banner 2.jpg",
     "default:Banner 3.jpg",
     "banner-1793908795863-1045.jpg"
   ],
-  "quick": null
+  "quick": null,
+  "images": null,
+  "prod": null,
+  "texts": {
+    "pop": "ROTON FFX 💌সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট\n১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে 🥰✅"
+  }
 }
